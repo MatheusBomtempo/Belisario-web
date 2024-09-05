@@ -9,7 +9,7 @@ export default function Home() {
     <div className="text-black">
       <NextSeo
         title="Home: Belisário"
-        description="Welcome to Belisario homepage."
+        description="Bem-Vindo ao Belisario."
         canonical="https://Belisario-2.vercel.app/"
         openGraph={{
           url: "https://Belisario-2.vercel.app/",
